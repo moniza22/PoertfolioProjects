@@ -1,4 +1,4 @@
-# PortfolioProjects 1
+# PortfolioProject 1
 Creating a Dashboard on Tableau for CovidDataInsights. 
 Downloaded data from source: https://ourworldindata.org/coronavirus.
 Uploaded data in AzureDataStudio/SQLServer.
